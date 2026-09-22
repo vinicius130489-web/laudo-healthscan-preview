@@ -1,0 +1,6 @@
+:HL["/laudo-healthscan-preview/_next/static/css/d90c553af41d1336.css","style"]
+:HL["/laudo-healthscan-preview/assets/brand/healthscan.svg","image"]
+:HL["/laudo-healthscan-preview/assets/radiografia/normal-original.jpg","image"]
+:HL["/laudo-healthscan-preview/assets/tomografia/body-gallery/t12-original.png","image"]
+:HL["/laudo-healthscan-preview/assets/brand/meditec.png","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"o3gXqjLkEVt3gyoLLDJaG"}
